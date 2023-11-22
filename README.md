@@ -1,4 +1,5 @@
 # LEARN PYTHON FAST (VERY FAST)
+temps de lecture de ce texte : 15-20 minutes.
 
 Cette idée d'un condensé ultra-court pour apprendre le langage Python m'est venue du fait qu'au lycée, en seconde particulièrement, le Python est enseigné par des professeurs sur la base du volontariat. Le problème, c'est que, par exemple, pour les professeurs de mathématiques, ils ne vont faire QUE des maths. Or, avec le Python, on fait bien plus que "uniquement" des maths. J'ai donc voulu monter un document simple à suivre, avec les fondements de base de la programmation tout court :
 -> Les variables
