@@ -1,4 +1,6 @@
-
+Aperçu du langage Python pour apprendre très rapidement
+et grossièrement la chose... Issu d'une demande à ChatGpt : 
+https://chat.openai.com/share/c7cf9f64-6953-4283-8522-18f7f83b451d
 
 ___
 
