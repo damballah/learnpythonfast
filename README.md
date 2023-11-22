@@ -1,5 +1,13 @@
-Aperçu du langage Python pour apprendre très rapidement
-et grossièrement la chose... Issu d'une demande à ChatGpt : 
+Cette idée d'un condensé ultra-court pour apprendre le langage Python m'est venue du fait qu'au lycée, en seconde particulièrement, le Python est enseigné par des professeurs sur la base du volontariat. Le problème, c'est que, par exemple, pour les professeurs de mathématiques, ils ne vont faire QUE des maths. Or, avec le Python, on fait bien plus que "uniquement" des maths. J'ai donc voulu monter un document simple à suivre, avec les fondements de base de la programmation tout court :
+-> Les variables
+-> Les conditions
+-> Les Boucles
+-> Lecture/Ecriture dans des fichiers
+-> Creation de fonctions
+-> Création d'objets (class)
+
+Donc, voici un aperçu du langage Python pour apprendre très rapidement
+et grossièrement, les "vraies" bases... Issu d'une discussion avec ChatGpt : 
 https://chat.openai.com/share/c7cf9f64-6953-4283-8522-18f7f83b451d
 
 ___
