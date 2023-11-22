@@ -14,9 +14,7 @@ Donc, voici un aperçu du langage Python pour apprendre très rapidement
 et grossièrement, les "vraies" bases... Issu d'une discussion avec ChatGpt : 
 https://chat.openai.com/share/c7cf9f64-6953-4283-8522-18f7f83b451d
 
-Pour coder les exemples qu vous verrez ici, 
-
-vous pouvez utiliser l'interface de codage Python en ligne et gratuite : 
+Pour coder les exemples qu vous verrez ici, vous pouvez utiliser l'interface de codage Python en ligne et gratuite : 
 
 https://www.online-python.com/
 ___
